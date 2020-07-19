@@ -1,2 +1,2 @@
-# porium
-Distributed Online Learning Platform
+# Porium
+Distributed Online Learning Platform - https://porium.netlify.com
